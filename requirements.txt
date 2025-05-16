@@ -1,1 +1,13 @@
 streamlit
+livekit-agents[openai,silero,turn-detector,deepgram,google,anthropic,cartesia,elevenlabs,rime,playai,groq]~=1.0
+python-dotenv
+requests
+annoy
+pydantic
+flask
+pandas
+websockets>=11.0.3
+rich
+mcp
+websocket-client
+pyaudio
